@@ -43,3 +43,6 @@ Average Sales
 
 Transaction Count
 =COUNT('SampleSuperstore'!J2:J9995)
+
+## Screenshots
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/fcac8fac-956a-44e7-96b7-f3274b676d18" />
